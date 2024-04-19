@@ -1,2 +1,4 @@
 # AIRO-AIxIA-2022
-Paper publication for workshop AIRO-AIxIA 2022.
+
+### Modelling automated industrial experiments as incremental diverse AI planning problems
+Authors: Antonio Lomuscio, Franci Rrapi, Pierfrancesco Esposito, Sofia Santilli, Alessandro Trapasso, Luca Iocchi, Fabio Patrizi and Fabio Zonfrilli.
